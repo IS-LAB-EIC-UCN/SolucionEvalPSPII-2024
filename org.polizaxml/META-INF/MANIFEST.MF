@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Bnd-LastModified: 1732903223672
+Build-Jdk-Spec: 17
+Bundle-ManifestVersion: 2
+Bundle-Name: org.polizaxml
+Bundle-SymbolicName: org.polizaxml
+Bundle-Version: 1.0.0
+Created-By: Apache Maven Bundle Plugin 5.1.9
+Export-Package: org.polizaxml;uses:="org.poliza";version="1.0.0"
+Import-Package: org.poliza;version="[1.0,2)"
+Tool: Bnd-6.3.1.202206071316

@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Bnd-LastModified: 1732903224146
+Build-Jdk-Spec: 17
+Bundle-ManifestVersion: 2
+Bundle-Name: Archetype - org.test
+Bundle-SymbolicName: org.test
+Bundle-Version: 1.0.0
+Created-By: Apache Maven Bundle Plugin 5.1.9
+Import-Package: org.poliza,org.polizaxml
+Tool: Bnd-6.3.1.202206071316
